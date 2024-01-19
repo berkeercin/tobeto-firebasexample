@@ -1,6 +1,8 @@
 # firebasexample
 
-A new Flutter project.
+Firebase örneği
+
+Ödev: Son firebase uygulamamıza mesaj sistemini entegre ediniz.
 
 ## Getting Started
 
